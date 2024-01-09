@@ -1,0 +1,28 @@
+body{
+    background-color:  #713ABE ;
+}
+
+h1{
+    color: #8E8FFA ;
+    text-align: center;
+}
+
+h2{
+    color: #7752FE;
+    text-align: right;
+}
+
+.titles{
+    color: #190482;
+    text-align: right;
+    background-color: #B931FC;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 35px;
+    color: #7752FE;
+    border: 5px solid #190482;
+    object-fit: cover;
+}
